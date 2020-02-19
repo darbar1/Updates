@@ -1,15 +1,16 @@
 {
-  "latestVersion": "2.6",
-  "latestVersionCode": "20",
-  "url": "https://github.com/darbar1/Updates/raw/master/RedFlixTV_v2.6.apk",
+  "latestVersion": "3.0",
+  "latestVersionCode": "30",
+  "url": "",
   "releaseNotes": [
-    "Please update the app in order to start enjoying the content!",
+    "(IMPORTANT) Farewell Announcement",
     " ",
-    "Changelogs:",
+    "It has been a good rollercoaster ride working on this project. However, it is time to say goodbye!",
     " ",
-    "[Update] We've Moved To A Bigger & Better Server Now",
-    "[Fix] Fixed Live TV",
-    "[Fix] Fixed Memory Leaks",
-    "[Fix] Fixed Several Tiny Bugs & Took Performance Measurements"
+    "From this stressful legal experience, we've have learned to appreciate the damage apps such as RedFlix TV do to those who invest their time, effort and money to create motion pictures. We now plan to fully respect intellectual property laws and strongly urge those who used our app to use legal apps to watch content. Thank you for your love and support fam.",
+    " ",
+    "Signing off one last time, with love,",
+    "RedFlix TV.",
+    "(19th Feb 2020)"
   ]
 }
